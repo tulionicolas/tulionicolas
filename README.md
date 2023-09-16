@@ -1,6 +1,6 @@
 # Túlio N. Oliveira
 
-<h2>Desenvolvedor FullStack</h2>
+## Desenvolvedor FullStack
 
 Sou desenvolvedor especializado em LIMS e Aplicações diversas para laboratórios de ensaios e calibração, gosto de participar do projeto desde a definição das regras de negócio e levantamento de requisitos até o *deploy*.
 
@@ -10,6 +10,24 @@ Amo estudar novas tecnologias e sou apaixonado pelo mundo do software livre. Sem
 
 <hr />
 
+## Minhas Skills
+
+> [!Tools]
+> - Linux
+> - Docker
+
+> [!Back-end]
+> - C#
+> - Java Spring Boot
+> - VB.Net
+> - PHP
+> - JavaScript
+
+> [!Font-end]
+> - ASPX
+> - HTML
+> - CSS
+> - JavaScript
 
 <!--
 **tulionicolas/tulionicolas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
