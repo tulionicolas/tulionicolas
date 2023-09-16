@@ -8,7 +8,7 @@ Atuo como Desenvolvedor de Software Sênior no **SENAI-MG** desde 2011.
 
 Amo estudar novas tecnologias e sou apaixonado pelo mundo do software livre. Sempre utilizei Debian, mas tenho uma queda pelo Arch Linux... (risos)
 
-<hr />
+
 
 ## Minhas Skills
 
