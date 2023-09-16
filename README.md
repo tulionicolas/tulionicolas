@@ -14,21 +14,21 @@ Amo estudar novas tecnologias e sou apaixonado pelo mundo do software livre. Sem
 <table width="100%">
     <tr>
         <td width="33%">
-            <h2>Tools</h2>
+            <span style="font-size: 24px; margin-bottom: 25px; font-weight: bold; padding-left: 10px; border-left: 5px solid #666666;">Tools</span>
             <div align="center">
-
+                1
             </div>
         </td>
         <td width="34%">
             <span style="font-size: 24px; margin-bottom: 25px; font-weight: bold; padding-left: 10px; border-left: 5px solid #666666;">Back-end</span>
             <div align="center">
-                
+                1
             </div>
         </td>
         <td width="33%">
             <h2>Front-end</h2>
             <div align="center">
-                
+                1
             </div>
         </td>
     </tr>
@@ -36,19 +36,19 @@ Amo estudar novas tecnologias e sou apaixonado pelo mundo do software livre. Sem
         <td width="33%">
             <h2>Databases</h2>
             <div align="center">
-                
+                1
             </div>
         </td>
         <td width="34%">
             <h2>Back-end Frameworks</h2>
             <div align="center">
-                
+                1
             </div>
         </td>
         <td width="33%">
             <h2>Front-end Frameworks</h2>
             <div align="center">
-                
+                1
             </div>
         </td>
     </tr>
