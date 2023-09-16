@@ -1,6 +1,6 @@
-#Túlio N. Oliveira
+# Túlio N. Oliveira
 
-##Desenvolvedor FullStack
+## Desenvolvedor FullStack
 
 Sou desenvolvedor especializado em LIMS e Aplicações diversas para laboratórios de ensaios e calibração, gosto de participar do projeto desde a definição das regras de negócio e levantamento de requisitos até o *deploy*.
 
