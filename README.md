@@ -9,50 +9,7 @@ Atuo como Desenvolvedor de Software Sênior no **SENAI-MG** desde 2011.
 Amo estudar novas tecnologias e sou apaixonado pelo mundo do software livre. Sempre utilizei Debian, mas tenho uma queda pelo Arch Linux... (risos)
 
 <hr />
-<h2>Minhas Skills</h2>
 
-<table width="100%" style="border: 0; width: 100%">
-    <tr style="border: 0;">
-        <td width="33%" style="border: 0;">
-            <span style="font-size: 24px; margin-bottom: 25px; font-weight: bold; padding-left: 10px; border-left: 5px solid #666666;">Tools</span>
-            <div align="center">
-                1
-            </div>
-        </td>
-        <td width="34%" style="border: 0;">
-            <span style="font-size: 24px; margin-bottom: 25px; font-weight: bold; padding-left: 10px; border-left: 5px solid #666666;">Back-end</span>
-            <div align="center">
-                1
-            </div>
-        </td>
-        <td width="33%" style="border: 0;">
-            <h2>Front-end</h2>
-            <div align="center">
-                1
-            </div>
-        </td>
-    </tr>
-    <tr style="border: 0;">
-        <td width="33%" style="border: 0;">
-            <h2>Databases</h2>
-            <div align="center">
-                1
-            </div>
-        </td>
-        <td width="34%" style="border: 0;">
-            <h2>Back-end Frameworks</h2>
-            <div align="center">
-                1
-            </div>
-        </td>
-        <td width="33%" style="border: 0;">
-            <h2>Front-end Frameworks</h2>
-            <div align="center">
-                1
-            </div>
-        </td>
-    </tr>
-</table>
 
 <!--
 **tulionicolas/tulionicolas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
