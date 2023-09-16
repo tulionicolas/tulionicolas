@@ -12,22 +12,28 @@ Amo estudar novas tecnologias e sou apaixonado pelo mundo do software livre. Sem
 
 ## Minhas Skills
 
-> Tools
+> **Tools**
+
 Linux e Docker
 
-> Back-end
+> **Back-end**
+
 C#, Java, VB.Net, PHP e JavaScript
 
-> Font-end
+> **Font-end**
+
 ASPX, HTML, CSS e JavaScript
 
-> Batabases
+> **Batabases**
+
 SQL Server, MySQL e Postgres
 
-> Back-end Frameworks
+> **Back-end Frameworks**
+
 ASP Net Core, Sprint Boot e Express
 
-> Front-end Frameworks
+> **Front-end Frameworks**
+
 React, Next e Bootstrap
 
 <!--
