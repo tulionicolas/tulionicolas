@@ -12,22 +12,23 @@ Amo estudar novas tecnologias e sou apaixonado pelo mundo do software livre. Sem
 
 ## Minhas Skills
 
-> [!Tools]
-> - Linux
-> - Docker
+> Tools
+Linux e Docker
 
-> [!Back-end]
-> - C#
-> - Java Spring Boot
-> - VB.Net
-> - PHP
-> - JavaScript
+> Back-end
+C#, Java, VB.Net, PHP e JavaScript
 
-> [!Font-end]
-> - ASPX
-> - HTML
-> - CSS
-> - JavaScript
+> Font-end
+ASPX, HTML, CSS e JavaScript
+
+> Batabases
+SQL Server, MySQL e Postgres
+
+> Back-end Frameworks
+ASP Net Core, Sprint Boot e Express
+
+> Front-end Frameworks
+React, Next e Bootstrap
 
 <!--
 **tulionicolas/tulionicolas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
