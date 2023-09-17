@@ -18,7 +18,7 @@ Amo estudar novas tecnologias e sou apaixonado pelo mundo do software livre. Sem
 
 **Back-end**
 
-> C#, Java, VB.Net, PHP e JavaScript (NodeJS)
+> C++, C#, Java, VB.Net, PHP e JavaScript (NodeJS)
 
 **Font-end**
 
