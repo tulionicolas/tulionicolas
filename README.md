@@ -2,12 +2,13 @@
 
 ## Desenvolvedor FullStack
 
-Sou desenvolvedor especializado em LIMS e Aplicações diversas para laboratórios de ensaios e calibração, gosto de participar do projeto desde a definição das regras de negócio e levantamento de requisitos até o *deploy*.
+Me chamo Túlio Nícolas ou Old Rocket, filho da Gessy, casado com a Flávia e pai do Nícolas, sou desenvolvedor especializado em LIMS e Aplicações diversas para laboratórios de ensaios e calibração, gosto de participar de projetos desde a definição das regras de negócio e levantamento de requisitos até o *deploy*.
 
 Atuo como Desenvolvedor de Software Sênior no **SENAI-MG** desde 2011.
 
 Amo estudar novas tecnologias e sou apaixonado pelo mundo do software livre. Sempre utilizei Debian, mas tenho uma queda pelo Arch Linux... (risos)
 
+Meus hobbies são aeromodelismo, automodelismo e ferromodelismo, e adora aplicar tecnologia para melhorar a experiência com Modelismo, como por exemplo, utilizar impressão 3D, CAD e simulações com VR.
 
 
 ## Minhas Skills
@@ -35,6 +36,10 @@ Amo estudar novas tecnologias e sou apaixonado pelo mundo do software livre. Sem
 **Front-end Frameworks**
 
 > React, Next e Bootstrap
+
+**Outras**
+
+> Manufatura 3D (impressão) e CAD (Autokesk Fusion 360, Blender)
 
 <!--
 **tulionicolas/tulionicolas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
