@@ -2,7 +2,7 @@
 
 ## Desenvolvedor FullStack
 
-Me chamo Túlio Nícolas ou Old Rocket, filho da G..., casado com a F... e pai do N..., sou desenvolvedor especializado em LIMS e Aplicações diversas para laboratórios de ensaios e calibração, gosto de participar de projetos desde a definição das regras de negócio e levantamento de requisitos até o *deploy*.
+Me chamo Túlio Nícolas ou Old Rocket, filho da G..., casado com a F... e pai do N...
 
 Atuo como Desenvolvedor de Software Sênior no **SENAI-MG** desde 2011.
 
@@ -55,3 +55,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+A mente está presa entre a curiosidade de descobrir algo mais e o desejo de manter tudo como está. O equilibrio não oferece conforto e o deixa confuso.
+
+
